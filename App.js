@@ -24,6 +24,16 @@ import {
   ReloadInstructions,
 } from 'react-native/Libraries/NewAppScreen';
 
+var firebaseConfig = {
+  apiKey: "AIzaSyDjz6NX9xy1ngeHA1UzqJlM8ARzu_zdt8g",
+  authDomain: "newsapp-76c3b.firebaseapp.com",
+  databaseURL: "https://newsapp-76c3b.firebaseio.com",
+  projectId: "newsapp-76c3b",
+  storageBucket: "",
+  messagingSenderId: "122267434313",
+  appId: "1:122267434313:web:65ffcdeb171eafa4b0ae98"
+};
+
 const App = () => {
   return (
     <Fragment>

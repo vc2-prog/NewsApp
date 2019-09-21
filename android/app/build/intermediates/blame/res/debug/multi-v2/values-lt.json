@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/krishnavamsi/React-Native/NewsApp/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-lt/values-lt.xml",
+            "outputFile": "/home/krishnavamsi/test3/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-lt/values-lt.xml",
             "map": [
                 {
                     "source": "/home/krishnavamsi/.gradle/caches/transforms-2/files-2.1/13f8ad189cd58bc9500e998230d3108a/res/values-lt/values-lt.xml",

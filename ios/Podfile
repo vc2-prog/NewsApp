@@ -1,8 +1,8 @@
 platform :ios, '9.0'
 require_relative '../node_modules/@react-native-community/cli-platform-ios/native_modules'
 
-target 'vc' do
-  # Pods for vc
+target 'test3' do
+  # Pods for test3
   pod 'React', :path => '../node_modules/react-native/'
   pod 'React-Core', :path => '../node_modules/react-native/React'
   pod 'React-DevSupport', :path => '../node_modules/react-native/React'
@@ -27,7 +27,7 @@ target 'vc' do
   pod 'glog', :podspec => '../node_modules/react-native/third-party-podspecs/glog.podspec'
   pod 'Folly', :podspec => '../node_modules/react-native/third-party-podspecs/Folly.podspec'
 
-  target 'vcTests' do
+  target 'test3Tests' do
     inherit! :search_paths
     # Pods for testing
   end
@@ -35,10 +35,10 @@ target 'vc' do
   use_native_modules!
 end
 
-target 'vc-tvOS' do
-  # Pods for vc-tvOS
+target 'test3-tvOS' do
+  # Pods for test3-tvOS
 
-  target 'vc-tvOSTests' do
+  target 'test3-tvOSTests' do
     inherit! :search_paths
     # Pods for testing
   end

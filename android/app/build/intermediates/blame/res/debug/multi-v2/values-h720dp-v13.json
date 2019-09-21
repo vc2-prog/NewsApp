@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/krishnavamsi/React-Native/NewsApp/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-h720dp-v13/values-h720dp-v13.xml",
+            "outputFile": "/home/krishnavamsi/test3/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-h720dp-v13/values-h720dp-v13.xml",
             "map": [
                 {
                     "source": "/home/krishnavamsi/.gradle/caches/transforms-2/files-2.1/b39d1add755835994c3a3167f368f2d3/res/values-h720dp-v13/values-h720dp-v13.xml",
